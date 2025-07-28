@@ -88,14 +88,14 @@ body {
 #right {
     width: 60%;
     height: 100%;
-    background-color: aqua;
+  
 }
 
 #rtop {
     display: flex;
     height: 50%;
     width: 100%;
-    background-color: green;
+    
 }
 
 #rbottom {
